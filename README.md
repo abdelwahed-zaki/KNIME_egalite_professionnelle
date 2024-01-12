@@ -1,5 +1,4 @@
-# Diagnostic Approfondi de l'Égalité Professionnelle
-## Indicateurs Clés et Processus Analytique
+# Diagnostic Approfondi de l'Égalité Professionnelle: Indicateurs Clés et Processus Analytique
 
 ## Contexte
 Dans le cadre de la formation Data Analyst d'OpenClassrooms.
